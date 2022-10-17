@@ -4,7 +4,6 @@ import android.content.Context
 import android.view.MotionEvent
 import java.lang.Exception
 import java.util.*
-import kotlin.math.abs
 import kotlin.math.sqrt
 
 /**
